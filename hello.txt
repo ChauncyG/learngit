@@ -1,2 +1,2 @@
-aabbccdd
-ddbbbccaa
+aabbccddd
+ddbbbccaaaa
